@@ -1,0 +1,31 @@
+[] Directions
+[] Player start position Vector3(0,0,0)
+[] Player can move north set distance
+[] Player can move south set distance
+[] Player can move west set distance
+[] Player can move east set distance
+[] Player can check for obstacle
+[] If player hits obstacle he moves to previous position (Does not move)
+[] Player has movement target reference
+
+[] Make ui elements:
+    [] make button to go north
+    [] make button to go south
+    [] make button to go east
+    [] make button to go west
+    [] make button to start sequence of actions
+    [] make text field to see all set actions
+[] make player handler
+[] make movement functions
+
+
+[] Health system:
+    [x] Heart has 2 pieces
+    [x] Each piece is 0.5 fill image
+    [x] heart can be replenished
+    [x] heart throws exception when replenished negative number
+    [x] heart can be depleted
+    [x] heart throws exception when depleted negative number
+    [] hearts are contained in heart container
+    [] heart container can be replenished
+    [] heart container can be depleted
