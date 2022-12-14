@@ -26,6 +26,21 @@
     [x] heart throws exception when replenished negative number
     [x] heart can be depleted
     [x] heart throws exception when depleted negative number
-    [] hearts are contained in heart container
-    [] heart container can be replenished
-    [] heart container can be depleted
+    [x] hearts are contained in heart container
+    [x] heart container can be replenished
+    [x] heart container can be depleted
+    [x] Move Heart to a separate file
+    [x] Expose current heart pieces on Heart
+    [x] Expose heartPiecesPerHeart
+    [x] Move HeartContainer to a separate file
+    [x] Create Image builder
+    [x] Create Heart builder
+    [x] Create HeartContainer builder
+    [x] Health is an integer
+    [x] Health must be equal or greater then 0
+    [x] Health should have a maximum
+    [x] Overhealing should be ignored
+    [x] OverKill should be ignored
+    [x] Replenish should rollover from full hearts to empty
+    [] Hearts can be added to heart container
+    [] Heart Container contains max 10 Hearts?
